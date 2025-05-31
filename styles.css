@@ -8,3 +8,17 @@ a {
     color: #ffffff;
     font-weight: bolder;
 }
+
+#homebutton {
+    text-align: right;
+    display: block;
+}
+
+img {
+    margin: auto auto;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+}
